@@ -62,8 +62,7 @@ To conduct load test on separately excited generators and to obtain the characte
 
 
 ## Tabulation for Open Circuit Test
-    <img width="1259" height="322" alt="Screenshot 2025-09-27 110037" src="https://github.com/user-attachments/assets/85faf2a0-432c-46c0-81ca-2c32a0a1e853" />
-
+    <img width="1268" height="330" alt="image" src="https://github.com/user-attachments/assets/1f4e8c2f-11cf-40a6-b2a5-8042b2766487" />
 
 
 ## Model graph:
