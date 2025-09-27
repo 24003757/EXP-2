@@ -47,7 +47,7 @@ To conduct load test on separately excited generators and to obtain the characte
 4.	The characteristics should be drawn at constant rated speed by adjusting the drive unit or motor filed resistance as required.
 
 
-## Procedure for open test:
+## Procedure for Open Test:
 
 1.	Connections are made as per the circuit diagram.
 2.	Before starting the motor, ensure that both field rheostat and Pot meter of Drive Control Unit are in minimum position and the field rheostat of Generator should be in its maximum position. Similarly the load resistance connected to the Generator should be in its minimum position (No load).
@@ -57,11 +57,13 @@ To conduct load test on separately excited generators and to obtain the characte
 6.	After the experiment is completed the various rheostats are brought back to their original position in sequence and then main supply is switched off.
 
 ## Tabulation for Load Test:
-    <img width="1034" height="207" alt="image" src="https://github.com/user-attachments/assets/c6c08171-1464-4043-81dd-90efb4d26c4a" />
+   <img width="1034" height="207" alt="Screenshot 2025-09-27 105811" src="https://github.com/user-attachments/assets/71280733-c5a4-4171-87ac-a124375258e9" />
+
 
 
 ## Tabulation for Open Circuit Test
-     <img width="1259" height="322" alt="image" src="https://github.com/user-attachments/assets/0035502a-ca71-4cc6-aff2-d85307ed1615" />
+     <img width="1259" height="322" alt="Screenshot 2025-09-27 110037" src="https://github.com/user-attachments/assets/ec24b9c3-9597-45ee-b158-0b426b46ce4b" />
+
 
 ## Model graph:
 
@@ -76,8 +78,10 @@ To conduct load test on separately excited generators and to obtain the characte
 ## Calculation: 
 
 # Load Characteristics:
-  
+  <img width="847" height="719" alt="image" src="https://github.com/user-attachments/assets/007ac817-5e43-4d06-84f4-e4a968f4cf2e" />
+
 # Open characteristics:
+<img width="733" height="515" alt="image" src="https://github.com/user-attachments/assets/68be7681-2b9f-4eac-81ce-4397e69e6c09" />
 
 ## Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
