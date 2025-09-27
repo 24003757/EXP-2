@@ -1,8 +1,15 @@
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+DEVELOPED BY : Vinolia Alaina . R
+REGISTER NUMBER : 212224240184
 
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
+
+
+Circuit diagram:
+<img width="1472" height="620" alt="image" src="https://github.com/user-attachments/assets/19d73b1d-7765-45ad-b6c0-cbeef45b07c8" />
+
 
 Apparatus Required:
 
